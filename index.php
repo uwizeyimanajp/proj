@@ -43,7 +43,7 @@ try {
         <div class="header-content">
             <div class="logo">
                 <i class="fas fa-leaf"></i>
-                <h1>FreshHarvest</h1>
+                <h1>FreshHarvjest</h1>
             </div>
             <nav>
                 <a href="#home">Murugo</a>
