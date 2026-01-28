@@ -46,8 +46,8 @@ try {
                 <h1>FreshHarvest</h1>
             </div>
             <nav>
-                <a href="#home">Home</a>
-                <a href="#features">Features</a>
+                <a href="#home">Murugo</a>
+                <a href="#features">IWACU</a>
                 <a href="#order">Order</a>
                 <a href="#about">About</a>
                 <a href="admin/login.php" class="admin-btn">Admin Login</a>
